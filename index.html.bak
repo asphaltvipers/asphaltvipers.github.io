@@ -68,10 +68,9 @@
               data-position="25% 25%"></a>
           <div class="content">
             <div class="inner">
-              <h2>Ultricies aliquam</h2>
-              <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-                turpis mauris, eu ultricies erat malesuada quis. Aliquam
-                dapibus.</p>
+              <h2>Les rôle de chacun</h2>
+              <p>Adrien: Programmeur<br>
+                Yaniss : Fabrication et Communication Sponsoring</p>
               <ul class="actions">
                 <li><a href="generic.html" class="button">EN SAVOIR PLUS</a></li>
               </ul>
