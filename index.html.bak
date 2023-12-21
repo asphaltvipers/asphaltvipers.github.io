@@ -34,7 +34,8 @@
       </section>
       <!-- One -->
       <section id="one" class="wrapper style2 spotlights">
-        <section> <a href="pic01.jfif" class="image"><img src="images/pic01.jpg"
+        <section> <a href="pic01.jfif" class="image"><img src="images/pic01.jpg"
+
               alt="" data-position="center center"></a>
           <div class="content">
             <div class="inner">
@@ -44,7 +45,8 @@
             </div>
           </div>
         </section>
-        <section> <a href="#" class="image"><img src="images/pic02.jpg" alt=""
+        <section> <a href="#" class="image"><img src="images/pic02.jpg" alt=""
+
               data-position="top center"></a>
           <div class="content">
             <div class="inner">
@@ -57,7 +59,8 @@
             </div>
           </div>
         </section>
-        <section> <a href="#" class="image"><img src="images/pic03.jpg" alt=""
+        <section> <a href="#" class="image"><img src="images/pic03.jpg" alt=""
+
               data-position="25% 25%"></a>
           <div class="content">
             <div class="inner">
@@ -133,11 +136,14 @@
             <section>
               <form method="post" action="#">
                 <div class="fields">
-                  <div class="field half"> <label for="name">Nom</label> <input
+                  <div class="field half"> <label for="name">Nom</label> <input
+
                       name="name" id="name" type="text"> </div>
-                  <div class="field half"> <label for="email">Email</label> <input
+                  <div class="field half"> <label for="email">Email</label> <input
+
                       name="email" id="email" type="text"> </div>
-                  <div class="field"> <label for="message">Message</label> <textarea
+                  <div class="field"> <label for="message">Message</label> <textarea
+
 name="message" id="message" rows="5"></textarea> </div>
                 </div>
                 <ul class="actions">
@@ -161,7 +167,8 @@ name="message" id="message" rows="5"></textarea> </div>
                   <h3>Social</h3>
                   <ul class="icons">
                     <li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-                    <li><a href="https://www.instagram.com/asphaltviper/" class="icon brands fa-instagram"><span
+                    <li><a href="https://www.instagram.com/asphaltviper/" class="icon brands fa-instagram"><span
+
                           class="label">Instagram</span></a></li>
                   </ul>
                 </li>
