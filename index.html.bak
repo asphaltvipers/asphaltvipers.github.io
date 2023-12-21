@@ -29,11 +29,7 @@
       <section id="intro" class="wrapper style1 fullscreen fade-up">
         <div class="inner">
           <h1>Asphalt Vipers</h1>
-          <p>Ici il faut mettre une description pour le project. Dites moi si
-            vous avez des idées.</p>
-          <ul class="actions">
-            <li><a href="#one" class="button scrolly">EN SAVOIR PLUS</a></li>
-          </ul>
+          <p>Ici il faut mettre une description pour le project.</p>
         </div>
       </section>
       <!-- One -->
@@ -42,12 +38,9 @@
               alt="" data-position="center center"></a>
           <div class="content">
             <div class="inner">
-              <h2>Un équipe de chocs! </h2>
+              <h2>Un Equipe de Choc! </h2>
               <p>Constitué de&nbsp; les asphalt vipers sont une équipe de génie
                 de l'automobile qui participe à course en cours</p>
-              <ul class="actions">
-                <li><a href="generic.html" class="button">EN SAVOIR PLUS</a></li>
-              </ul>
             </div>
           </div>
         </section>
@@ -55,11 +48,11 @@
               data-position="top center"></a>
           <div class="content">
             <div class="inner">
-              <h2>Voici la Kobra V1 : notre voiture ultra rapide !</h2>
+              <h2>Voici la Kobra V1 : Notre Voiture Ultra Rapide !</h2>
               <p>Grâce a ces courbe racé, sont design futuriste et son charme a
                 tout épreuve cette voiture s'aura vous impréssioné.</p>
               <ul class="actions">
-                <li><a href="generic.html" class="button">EN SAVOIR PLUS</a></li>
+                <li><a href="voiture.html" class="button">EN SAVOIR PLUS</a></li>
               </ul>
             </div>
           </div>
@@ -81,9 +74,6 @@
                 <li>Louis : Ingénieur Fabrication et&nbsp; Responsable
                   Communication Sponsoring</li>
               </ul>
-              <ul class="actions">
-                <li><a href="generic.html" class="button">EN SAVOIR PLUS</a></li>
-              </ul>
             </div>
           </div>
         </section>
@@ -92,8 +82,8 @@
       <section id="two" class="wrapper style3 fade-up">
         <div class="inner">
           <h2>Notre Projet</h2>
-          <p>Comme dit précédemment nous faisons partie del'initiation course en
-            cours et avec notre voiture nous voulons révolutionner l'automobile.</p>
+          <p>Nous faisons partie de l'initiation course en cours et avec notre
+            voiture nous voulons révolutionner l'automobile.</p>
           <div class="features">
             <section> <span class="icon solid major fa-code"></span>
               <h3>Lorem ipsum amet</h3>
@@ -118,7 +108,7 @@
             <section> <span class="icon solid major fa-link"></span>
               <h3>Urna quis bibendum</h3>
               <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.</p>
+                aliquam turpis mauris, sed ultricies erat dababi.</p>
             </section>
             <section> <span class="icon major fa-gem"></span>
               <h3>Aliquam urna dapibus</h3>
@@ -127,7 +117,8 @@
             </section>
           </div>
           <ul class="actions">
-            <li><a href="generic.html" class="button">Learn more</a></li>
+            <li><br>
+            </li>
           </ul>
         </div>
       </section>
@@ -150,7 +141,9 @@
 name="message" id="message" rows="5"></textarea> </div>
                 </div>
                 <ul class="actions">
-                  <li><a href="" class="button submit">Send Message</a></li>
+                  <li><a href="" class="button submit">Envoyer Le message</a></li>
+                  <li><br>
+                  </li>
                 </ul>
               </form>
             </section>
@@ -159,7 +152,7 @@ name="message" id="message" rows="5"></textarea> </div>
                 <li>
                   <h3>Address</h3>
                   <span>Ensemble Scolaire Saint Louis<br>
-                    Crest, Saint Louis<br>
+                    Crest, Drôme<br>
                     France</span> </li>
                 <li>
                   <h3>Email</h3>
