@@ -34,41 +34,38 @@
       </section>
       <!-- One -->
       <section id="one" class="wrapper style2 spotlights">
-        <section> <a href="pic01.jfif" class="image"><img src="images/pic01.jpg"
-
+        <section> <a href="pic01.jfif" class="image"><img src="images/pic01.jpg"
               alt="" data-position="center center"></a>
           <div class="content">
             <div class="inner">
               <h2>Un Equipe de Choc! </h2>
-              <p>Les Asphalt Vipers sont une équipe de
-                génies de l'automobile qui participe à course en cours. (A remplacer!)</p>
+              <p>Les Asphalt Vipers sont une équipe de génies de l'automobile
+                qui participe à course en cours. (A remplacer!)</p>
             </div>
           </div>
         </section>
-        <section> <a href="#" class="image"><img src="images/pic02.jpg" alt=""
-
+        <section> <a href="#" class="image"><img src="images/pic02.jpg" alt=""
               data-position="top center"></a>
           <div class="content">
             <div class="inner">
               <h2>Voici la Kobra V1 : Notre Voiture Ultra Rapide !</h2>
-              <p>Grâce a ces courbes racées, sont design futuriste et son charme a
-                vous impressioneras</p>
+              <p>Grâce a ces courbes racées, sont design futuriste et son charme
+                a vous impressioneras</p>
               <ul class="actions">
                 <li><a href="voiture.html" class="button">EN SAVOIR PLUS</a></li>
               </ul>
             </div>
           </div>
         </section>
-        <section> <a href="#" class="image"><img src="images/pic03.jpg" alt=""
-
+        <section> <a href="#" class="image"><img src="images/pic03.jpg" alt=""
               data-position="25% 25%"></a>
           <div class="content">
             <div class="inner">
               <h2>Les Rôles de Chacun</h2>
               <ul>
                 <li>Lucas&nbsp; : Chef d'équipe</li>
-                <li>Adrien&nbsp;: Ingénieur système numérique et Ingénieur simulation
-                  et essais</li>
+                <li>Adrien&nbsp;: Ingénieur système numérique et Ingénieur
+                  simulation et essais</li>
                 <li>Yaniss&nbsp;: Ingénieur Fabrication et&nbsp; Responsable
                   Communication Sponsoring</li>
                 <li>Lucas&nbsp; : Ingénieur style design</li>
@@ -85,27 +82,28 @@
       <section id="two" class="wrapper style3 fade-up">
         <div class="inner">
           <h2>Notre Projet</h2>
-          <p>Nous faisons partie du projet "Course en Cours". Apprenez en plus de notre projet ici.</p>
+          <p>Nous faisons partie du projet "Course en Cours". Apprenez en plus
+            de notre projet ici.</p>
           <div class="features">
             <section> <span class="icon solid major fa-code"></span>
               <h3>Course en cours</h3>
               <p>c'est un dispositif pédagogique national qui vise à générer des
-                vocations scienifiques et techniques chez les jeunes.
-                Il s'agit plus précisément d'un challenge entre lycées
-                ou l'ont doit crée une voiture.</p>
+                vocations scienifiques et techniques chez les jeunes. Il s'agit
+                plus précisément d'un challenge entre lycées ou l'ont doit crée
+                une voiture.</p>
             </section>
             <section> <span class="icon solid major fa-car-side"></span>
               <h3>Notre voiture</h3>
-              Notre voiture ce base sur la vipère qui est un serpent connus
-              pour son agilité.</section>
+              Notre voiture ce base sur la vipère qui est un serpent connus pour
+              son agilité.</section>
             <section> <span class="icon solid major fa-chart-line"></span>
               <h3>Notre but</h3>
               <p>Avoir une voiture de qualité et jolie, avec une rapidité
                 inégale qui sera atteints par nos ingénieurs</p>
             </section>
             <section> <span class="icon solid major fa-code"></span>
-              <h3>A REMPLACER</h3>
-              <p>Yaniss tu avais supprimé ceci :/</p>
+              <h3>Nos sponsors</h3>
+              <span style="color: white;">à changé</span><br>
             </section>
           </div>
           <ul class="actions">
@@ -123,21 +121,18 @@
             bref délais.</p>
           <div class="split style1">
             <section>
-              <form action="https://formsubmit.co/019164888d535fb0a528ef24e673843d" method="POST">
-                <input type="hidden" name="_captcha" value="false">
-                <input type="hidden" name="_autoresponse" value="Merci de nous avoir envoyé un message! Nous vous réponderons prochainement.">
-                <input type="hidden" name="_webhook" value="https://discord.com/api/webhooks/1197174295546314832/QRwTkl3DC3HyLVgQ7z_sJpS8HKTUsZVBK7ovkqQWTK4MFo0BfMNApl8vN6N4TLSgxmcN">
-                <input type="hidden" name="_next" value="reply.html">
-                <input type="hidden" name="_template" value="table">
+              <form action="https://formsubmit.co/019164888d535fb0a528ef24e673843d"
+                method="POST"> <input name="_captcha" value="false" type="hidden">
+                <input name="_autoresponse" value="Merci de nous avoir envoyé un message! Nous vous réponderons prochainement."
+                  type="hidden"> <input name="_webhook" value="https://discord.com/api/webhooks/1197174295546314832/QRwTkl3DC3HyLVgQ7z_sJpS8HKTUsZVBK7ovkqQWTK4MFo0BfMNApl8vN6N4TLSgxmcN"
+                  type="hidden"> <input name="_next" value="reply.html" type="hidden">
+                <input name="_template" value="table" type="hidden">
                 <div class="fields">
-                  <div class="field half"> <label for="name">Nom</label> <input
-
+                  <div class="field half"> <label for="name">Nom</label> <input
                       name="name" id="name" type="text"> </div>
-                  <div class="field half"> <label for="email">Email</label> <input
-
-                    type="email" name="email"> </div>
-                  <div class="field"> <label for="message">Message</label> <textarea
-
+                  <div class="field half"> <label for="email">Email</label> <input
+                      name="email" type="email"> </div>
+                  <div class="field"> <label for="message">Message</label> <textarea
 name="message" id="message" rows="5"></textarea> </div>
                 </div>
                 <ul class="actions">
@@ -157,11 +152,9 @@ name="message" id="message" rows="5"></textarea> </div>
                 <li>
                   <h3>Social</h3>
                   <ul class="icons">
-                    <li><a href="https://github.com/asphaltvipers/asphaltvipers.github.io"
-
+                    <li><a href="https://github.com/asphaltvipers/asphaltvipers.github.io"
                         class="icon brands fa-github" target="_top"><span class="label">GitHub</span></a></li>
-                    <li><a href="https://www.instagram.com/asphaltviper/" class="icon brands fa-instagram"><span
-
+                    <li><a href="https://www.instagram.com/asphaltviper/" class="icon brands fa-instagram"><span
                           class="label">Instagram</span></a></li>
                   </ul>
                 </li>
